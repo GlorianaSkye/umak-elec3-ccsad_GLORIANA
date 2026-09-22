@@ -2,6 +2,6 @@
 
 | Lab Section | Driver | Navigator | Recorder | Reviewer |
 |---|---|---|---|---|
-| Part A & B | | | | |
+| Part A & B | Russel De Vera | | | |
 | Part C | | | | |
 | Part D & E | | | | |
